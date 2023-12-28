@@ -1,0 +1,22 @@
+.hero{
+    margin-top: 10px;
+}
+.hero__div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero__list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list__item{
+    margin-left: 48px;
+}
+.list__control{
+    color: white;
+    padding: 12px 24px;
+    border-radius: 4px;
+    background: var(--Primary-500, #A53DFF)
+}
